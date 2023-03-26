@@ -1,0 +1,6 @@
+A python programmed game which a user needs to guess the correct word. The user will get the number of chances which is
+equal to the length of word.  The user will lose chance for each wrong guesses made and guesses will not be reduced for
+the same wrong guesses made. If a word has two or more instances of the same letter, entering the letter single time would
+be enough to fill all the instances of it. All the user play data and history will be stored in a database and the player
+can see the player details and history at any time. In that case the user data stored in the database will be shown to the
+user using a web page,
